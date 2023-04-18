@@ -24,7 +24,7 @@
 
 7/Hassan est supprimé:
 
-![7](https://user-images.githubusercontent.com/53585316/232916466-7e38f7c0-e3bd-4772-8462-32a891260972.PNG)
+![7](https://user-images.githubusercontent.com/53585316/232918126-8421d14d-c069-49de-943f-679bb726f05f.PNG)
 
 8/Editer le patient portant l'ID :2 en changeant le nom Hassan par "Fahd Benzinane":
 
